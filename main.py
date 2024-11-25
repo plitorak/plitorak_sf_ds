@@ -1,4 +1,4 @@
-def test_function():
+def best_function():
     print("Test")
 
-test_function()
+best_function()
